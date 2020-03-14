@@ -21,7 +21,6 @@ Details of this method are clearly described in the source code comments.
 - `data/labels.train.db` - SQLite3 database with coordinates of bees images from data\labelled.train directory
 - `data/labels.validate.db` - SQLite3 database with coordinates of bees images from data\labelled.validate directory
 - `data/testing.experiment.db` - SQLite3 database with coordinates of bees images from data\testing.experiment
-- `.editorconfig` - settings file for Visual Studio.
 - `BeesDataGenerator.py` - routines used in modelling data generation,
 - `BeesDataReader.py` - routines for reading SQLite3 database and its contents where bees coordinates are stored
 - `BeesDataTester.py` - routines for calculating OOIs,
