@@ -4,7 +4,7 @@ ToBeeOrNotToBee-ImprovedSegmentation
 # Short description
 
 This code is a supplement to the article by Weronika W. Westwańska and Jerzy S. Respondek titled:
-"Improving Object Recognition and Segmentation using Single Point Loctaion Algorithm and U-Net Convolutional Neural Networks".
+"Improving Object Recognition and Segmentation using Single Point Loctaion Algorithm and U-Net Convolutional Neural Networks" - sent to The 20th International Conference on Computational Science and its Applications (http://www.iccsa.org).
 
 The goal of this work was to examine a novel method for segmentation of Object Of Interest (OOI) in colour digital images. To recognise OOI in an image we use a modern Deep Learning technique called U-Net Convolutional Neural Network (UNETCNN). Presented algoritm is based on our earlier work (ToBeeOrNotToBee -  https://github.com/WeronikaWestwanska/ToBeeOrNotToBee) and is improved according to segmentation of OOI.
 
